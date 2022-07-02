@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de Data Science e Machine Learning.<br>Tenho trabalhado em projeto de ETL, Análise de Dados e de Machine Learning.<br>E sou competidor na plataforma Kaggle.<br><br>Estou buscando por oportunidades na área e estou aberto para novos processos seletivos.<br><br>Detalhe sobre mim: Amo um bom desafio!<br><br>
+Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de Data Science e Machine Learning.<br>Tenho trabalhado em projetos de ETL, Análise de Dados e de Machine Learning.<br>E sou competidor na plataforma Kaggle.<br><br>Estou buscando por oportunidades na área e estou aberto para novos processos seletivos.<br><br>Detalhe sobre mim: Amo um bom desafio!<br><br>
 
 
 ## 🌐 Redes Sociais:
