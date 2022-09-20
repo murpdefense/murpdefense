@@ -7,12 +7,11 @@ Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento fro
 
 # 📊 GitHub Estatísticas:
 <div align="center">
-<a href="https://github.com/larissadantaz">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/><br/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/>
+  <a href="https://github.com/paulomarquesdev">
+  <img style="height: 48%;" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img style="height: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/><br/>
+  <img style="height: 48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/>
 </div>
-![]()<br/>
 
 
 ---
