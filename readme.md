@@ -6,9 +6,13 @@ Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento fro
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Marquies#2044) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomarquesdev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/kamikaz11_)
 
 # 📊 GitHub Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=paulomarquesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false)<br/>
+<div align="center">
+<a href="https://github.com/larissadantaz">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/><br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/>
+</div>
+![]()<br/>
 
 
 ---
