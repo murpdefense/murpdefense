@@ -11,7 +11,7 @@ Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento fro
     <img width="55.2%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
         <br/>
-    <img width="100%"src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/>
+    <img width="95.2%"src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/>
 </div>
 
 ---
