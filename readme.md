@@ -8,8 +8,8 @@ Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento fro
 # 📊 GitHub Estatísticas:
 <div align="center">
     <a href="https://github.com/paulomarquesdev">
-    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
+    <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&theme=tokyonight&hide_border=false"/> -->
 </div>
 
