@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento front-end.<br>No momento, estou estudando e aplicando os conhecimentos adquiridos em projetos. Logo estarei movimentando mais meu GitHub.<br><br>Estou buscando por oportunidades na área e estou aberto para novos processos seletivos.<br><br>Detalhe sobre mim: Amo um bom desafio!<br><br>
+Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento front-end.<br>No momento, estou estudando e aplicando os conhecimentos adquiridos em projetos.<br><br>Estou buscando por oportunidades na área e estou aberto para novos processos seletivos.<br><br>Detalhe sobre mim: Amo um bom desafio!<br><br>
 
 
 ## 🌐 Redes Sociais:
