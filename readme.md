@@ -3,7 +3,7 @@ Olá! Seja bem-vindo! Me chamo Paulo.<br>Eu sou estudante de desenvolvimento fro
 
 
 ## 🌐 Redes Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/soupaulort#8725) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomarquesdev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/soupaulort)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/soupaulort#8725) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulomarquesdev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/soupaulort) [![Vercel](https://www.svgrepo.com/show/354513/vercel-icon.svg?logo=Vercel&logoColor=white)]([https://www.twitch.tv/soupaulort](https://vercel.com/paulomarquesdev))
 
 # 📊 GitHub Estatísticas:
 <div align="center" style="display: flex; flex-direction: column; align-items: center;"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false"/>
