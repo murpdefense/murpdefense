@@ -1,9 +1,7 @@
 <div align="center" style="width: 100%">
     <h1>Sou o Paulo. Prazer!</h1>
     <div align="center">
-        <a href="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" target="_blank">
-            <img style="width: 100%;" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" alt=""/>
-        </a>
+        <a href="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" target="_blank"><img style="width: 100%;" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" alt=""/></a>
     </div>
     <div align="left" >
         <h3>
