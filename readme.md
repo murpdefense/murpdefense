@@ -64,9 +64,9 @@
 
 
 ## GitHub Estatísticas 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&hide_border=true&layout=compact&theme=radical" align="center" style="width: 70%" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 70%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&hide_border=true&layout=compact&theme=radical" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
