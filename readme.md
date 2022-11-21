@@ -1,6 +1,6 @@
 
-<div align="center" style="width: 100%">
-    <p style="font-size: 2rem; font-weight: "> Sobre mim </p>
+# <center>Sobre mim<center>
+<div style="width: 100%">
     <div align="center" style="">
         <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" align="left" style="width: 50%; padding: 0 20px" />
         <div align="left">
@@ -9,7 +9,6 @@
     </div>  
 </div>  
   
-<br/>
 <br/>
   
 <ul>
@@ -21,8 +20,8 @@
 <br/>  
 
 
+# <center>Habilidades<center>
 <div align="center">  
-    <p style="font-size: 2rem; font-weight: "> Habilidades </p>
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -40,8 +39,8 @@
 <br/>  
 
 
+# <center>Redes Sociais<center>
 <div align="center">
-    <p style="font-size: 2rem; font-weight: "> Redes Sociais </p>
     <a href="https://github.com/paulomarquesdev" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -63,9 +62,8 @@
 <br/>  
 
 
-##  
+# <center>GitHub Estatísticas<center>
 <div align="center">
-    <p style="font-size: 2rem; font-weight: "> GitHub Estatísticas </p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&theme=radical" align="center" style="width: 70%; margin-bottom: 0.4rem;" />
     <img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&theme=radical" align="center" style="width: 70%" />
 </div>
