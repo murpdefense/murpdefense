@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-    <img style="width: 45%;" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" />
+    <img style="width: 45%;" src="https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif" />
 </div>
 
 <br/>
