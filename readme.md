@@ -13,7 +13,7 @@
 
 <br/>
   
-<ul style="padding-top: 2rem;">
+<ul>
     <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
     <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
     <li>⚡ Spoiler: Amo um bom desafio!</li>
