@@ -1,5 +1,5 @@
 
-# <center>Sobre mim<center>
+<h1 align="center">Sobre mim</h1>
 <div style="width: 100%">
     <div align="center" style="">
         <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" align="left" style="width: 50%; padding: 0 20px" />
@@ -20,7 +20,7 @@
 <br/>  
 
 
-# <center>Habilidades<center>
+# <h1>Habilidades<h1>
 <div align="center">  
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -39,7 +39,7 @@
 <br/>  
 
 
-# <center>Redes Sociais<center>
+# <h1>Redes Sociais<h1>
 <div align="center">
     <a href="https://github.com/paulomarquesdev" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -62,7 +62,7 @@
 <br/>  
 
 
-# <center>GitHub Estatísticas<center>
+# <h1>GitHub Estatísticas<h1>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&theme=radical" align="center" style="width: 70%; margin-bottom: 0.4rem;" />
     <img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&theme=radical" align="center" style="width: 70%" />
