@@ -1,7 +1,7 @@
 
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
-    <div align="center" style="">
+    <div align="center" style="display: inline">
         <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" align="left" style="width: 50%; padding: 0 20px" />
         <div align="left">
             Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
@@ -17,11 +17,11 @@
     <li>⚡ Spoiler: Amo um bom desafio!</li>
 </ul>
 
+
 <br/>  
 
-
-# <h1>Habilidades<h1>
 <div align="center">  
+    <h1>Habilidades</h1>
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -37,10 +37,12 @@
 </div>  
 
 <br/>  
+<br/>  
 
 
-# <h1>Redes Sociais<h1>
+
 <div align="center">
+    <h1>Redes Sociais</h1>
     <a href="https://github.com/paulomarquesdev" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
@@ -60,10 +62,12 @@
   
 
 <br/>  
+<br/>  
 
 
-# <h1>GitHub Estatísticas<h1>
+
 <div align="center">
+    <h1>GitHub Estatísticas</h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&layout=compact&theme=radical" align="center" style="width: 70%; margin-bottom: 0.4rem;" />
     <img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&theme=radical" align="center" style="width: 70%" />
 </div>
