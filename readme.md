@@ -63,8 +63,14 @@
 <br/>  
 
 
-## GitHub Estatísticas  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## GitHub Estatísticas 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paulomarquesdev&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarquesdev&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7ubxe4gmrp3nhrv5qadx6bsoq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false&bar_color=00fbff" /></div>  
 
 <br/>  
 
