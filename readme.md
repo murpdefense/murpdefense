@@ -1,11 +1,9 @@
-
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
-    <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-        <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" style="width: 100%;"/>
-        <p align="left" style="width: 100%;">Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.</p>     
+    <div align="center" >
+        Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
     </div>  
-</div>  
+</div>
   
 <br/>
   
