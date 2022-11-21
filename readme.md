@@ -23,9 +23,6 @@
 
 <br/>
 
-
-<br/>  
-
 <div align="center">  
     <h1>Habilidades</h1>
     <div align="center">  
@@ -45,9 +42,6 @@
 </div>  
 
 <br/>  
-<br/>  
-
-
 
 <div align="center">
     <h1>Redes Sociais</h1>
