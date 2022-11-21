@@ -1,6 +1,6 @@
 
-<h1 align="center">Sobre mim</h1>
-<div style="width: 100%">
+<div align="center" style="width: 100%">
+    <h1>Sobre mim</h1>
     <div align="center" style="">
         <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" align="left" style="width: 50%; padding: 0 20px" />
         <div align="left">
