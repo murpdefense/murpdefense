@@ -1,25 +1,25 @@
 <div align="center" style="width: 100%">
-    <h1>Sobre mim</h1>
-    <div align="center" >
+    <h1>Sou o Paulo. Prazer!</h1>
+    <div align="center">
+        <a href="https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges" target="_blank">
+            <img style="width: 100%;" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg" alt=""/>
+        </a>
+    </div>
+    <div align="left" >
         <h3>
-            Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
+            Sou estudante de desenvolvimento front-end.
+            Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático.
+            Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
         </h3>
-    </div>  
+    </div>    
+    <ul style="text-align: left; padding: 1rem;">
+        <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
+        <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
+        <li>⚡ Spoiler: Amo um bom desafio!</li>
+    </ul>
 </div>
-  
-<br/>
-
-<div align="center">
-    <img style="width: 45%;" src="https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif" />
-</div>
 
 <br/>
-  
-<ul>
-    <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
-    <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
-    <li>⚡ Spoiler: Amo um bom desafio!</li>
-</ul>
 
 
 <br/>  
