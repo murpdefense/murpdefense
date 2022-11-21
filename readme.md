@@ -1,10 +1,16 @@
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
-    <div align="center" >
+    <div align="center" style="font-size: 1.2rem;">
         Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
     </div>  
 </div>
   
+<br/>
+
+<div align="center">
+    <img style="width: 45%;" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" />
+</div>
+
 <br/>
   
 <ul style="padding-top: 2rem;">
