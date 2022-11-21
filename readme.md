@@ -1,7 +1,7 @@
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
-    <div align="center" style="font-size: 1.2rem;">
-        Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
+    <div align="center" >
+        <p style="font-size: 1.2rem;">Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.</p>
     </div>  
 </div>
   
