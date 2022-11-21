@@ -1,9 +1,9 @@
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
     <div align="center" >
-        <h2>
+        <h3>
             Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
-        </h2>
+        </h3>
     </div>  
 </div>
   
