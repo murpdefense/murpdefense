@@ -11,12 +11,14 @@
             Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático.
             Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
         </h3>
-    </div>    
-    <ul style="text-align: left; padding: 1rem;">
-        <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
-        <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
-        <li>⚡ Spoiler: Amo um bom desafio!</li>
-    </ul>
+    </div>  
+    <div align="left" >
+        <ul>
+            <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
+            <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
+            <li>⚡ Spoiler: Amo um bom desafio!</li>
+        </ul>
+    </div>
 </div>
 
 <br/>
