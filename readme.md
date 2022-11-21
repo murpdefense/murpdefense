@@ -1,8 +1,8 @@
 
 <div align="center" style="width: 100%">
     <h1>Sobre mim</h1>
-    <div align="center" style="display: inline">
-        <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" align="left" style="width: 50%; padding: 0 20px" />
+    <div align="center">
+        <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" style="width: 50%; padding: 0 1rem; float: left;" />
         <div align="left">
             Seja bem-vindo! Eu sou o Paulo. Sou estudante de desenvolvimento front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
         </div>  
@@ -11,7 +11,7 @@
   
 <br/>
   
-<ul>
+<ul style="padding-top: 2rem;">
     <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
     <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
     <li>⚡ Spoiler: Amo um bom desafio!</li>
