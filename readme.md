@@ -5,7 +5,7 @@
     </div>
     <div align="left" >
         <h3>
-            Sou estudante de desenvolvimento front-end.
+            Sou estudante de desenvolvimento mobile.
             Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático.
             Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
         </h3>
@@ -13,7 +13,7 @@
     <div align="left" >
         <ul>
             <li>🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.  </li>
-            <li>🌱 Atualmente estou estudando React, Next.js e TypeScript</li>
+            <li>🌱 Atualmente estou estudando Java, Kotlin e Android</li>
             <li>⚡ Spoiler: Amo um bom desafio!</li>
         </ul>
     </div>
