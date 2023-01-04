@@ -19,7 +19,7 @@
       </p>
       <ul>
         <li>
-          🔭 No momento, estou desempregado, estudando e aplicando para vagas na área de programação.
+          🔭 No momento, estou estudando e aplicando para vagas na área de mobile android nativo.
         </li>
         <li>
           🌱 Atualmente estou estudando Java, Kotlin e Android.
