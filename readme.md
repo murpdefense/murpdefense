@@ -19,7 +19,7 @@
       </p>
       <ul>
         <li>
-          🔭 No momento, estou estudando e aplicando para vagas na área de mobile android nativo.
+          🔭 No momento, estou estudando e aplicando para vagas na área de mobile.
         </li>
         <li>
           🌱 Atualmente estou estudando Java, Kotlin e Android.
