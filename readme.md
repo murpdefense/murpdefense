@@ -37,5 +37,5 @@ Eu tenho conhecimento em: JavaScript, TypeScript, React, HTML, CSS, SaSS, Git, W
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulomarquesdev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulomarquesdev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulomarquesdev&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulomarquesdev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulomarquesdev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=paulomarquesdev&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
