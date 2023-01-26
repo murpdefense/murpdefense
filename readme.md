@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(as);Sou+Paulo+Marques;Tenho+22+anos;Desevolvedor+Android)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(as);Sou+Paulo+Marques;Tenho+22+anos;Desenvolvedor+Android)](https://git.io/typing-svg)
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/soupaulort/)
@@ -11,7 +11,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="500" src="https://skilsful.com/wp-content/uploads/2021/08/cover-lg.png" />
+      <img width="500" src="https://goobar.b-cdn.net/wp-content/uploads/2021/03/android_category_thumbnail.png" />
     </td>
     <td style="border: 0";>
       <p>
