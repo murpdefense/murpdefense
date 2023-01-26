@@ -11,7 +11,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="500" src="https://goobar.b-cdn.net/wp-content/uploads/2021/03/android_category_thumbnail.png" />
+      <img width="500" src="https://www.uniqueerp.co.in/img/course/10.jpg" />
     </td>
     <td style="border: 0";>
       <p>
