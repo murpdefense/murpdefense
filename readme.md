@@ -11,7 +11,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="500" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png" />
+      <img width="500" src="https://skilsful.com/wp-content/uploads/2021/08/cover-lg.png" />
     </td>
     <td style="border: 0";>
       <p>
