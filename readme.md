@@ -15,7 +15,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        Sou estudante de desenvolvimento mobile. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
+        Sou estudante de desenvolvimento de apps mobile. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
       </p>
       <ul>
         <li>
@@ -31,8 +31,6 @@
     </td>
   </tr>
 </table>
-
-Eu tenho conhecimento em: JavaScript, TypeScript, React, HTML, CSS, SaSS, Git, Windows, Figma, Photoshop, Illustrator
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulomarquesdev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulomarquesdev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paulomarquesdev&theme=nord_dark) |
 | :-: | :-: | :-: |
