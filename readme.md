@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+Paulo+Marques;Tenho+22+anos;Desenvolvedor+Mobile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+o+Paulo+Marques;Tenho+22+anos;Desenvolvedor+Mobile)](https://git.io/typing-svg)
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/soupaulort/)
