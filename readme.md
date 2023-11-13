@@ -2,6 +2,7 @@
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/soupaulort/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/copiloto.studio)](https://www.instagram.com/soupaulort/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.linkedin.com/in/paulomarquesdev/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SOUPAUL0RT)](https://twitter.com/SOUPAUL0RT)
 
