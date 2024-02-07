@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+o+Paulo+Marques;Tenho+23+anos;Desenvolvedor+Mobile;E+sou+seu+Copiloto;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+o+Paulo+Marques;Tenho+23+anos;Desenvolvedor;E+sou+seu+Copiloto;)](https://git.io/typing-svg)
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-copiloto.studio-blue?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/copiloto.studio/)
@@ -15,14 +15,14 @@
     </td>
     <td style="border: 0";>
       <p>
-        Sou estudante de desenvolvimento de apps mobile com Flutter. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
+        Sou estudante de desenvolvimento de software com foco em front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
       </p>
       <ul>
         <li>
-          🔭 No momento, estou estudando e aplicando para vagas na área de mobile.
+          🔭 No momento, estou estudando e aplicando para vagas na área de frontend.
         </li>
         <li>
-          🌱 Atualmente estou estudando Flutter
+          🌱 Atualmente estou estudando React, Javascript e Typescript.
         </li>
         <li>
           ⚡ Spoiler: Amo um bom desafio!
