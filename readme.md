@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+o+Paulo+Marques;Tenho+23+anos;Desenvolvedor;E+sou+seu+Copiloto;)](https://git.io/typing-svg)
 <h4 align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/-copiloto.studio-blue?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/copiloto.studio/)
 [![Instagram Badge](https://img.shields.io/badge/-soupaulort-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/soupaulort/)
 [![Linkedin Badge](https://img.shields.io/badge/-paulomarquesdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.linkedin.com/in/paulomarquesdev/)
 [![Twitter Badge](https://img.shields.io/badge/-soupaul0rt-black?&style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/SOUPAUL0RT)](https://twitter.com/SOUPAUL0RT)
@@ -15,14 +14,14 @@
     </td>
     <td style="border: 0";>
       <p>
-        Sou estudante de desenvolvimento de software com foco em front-end. Atualmente resido em Brasília - DF. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas e descobrir maneiras diferentes de lidar com um mesmo problema.
+        Sou estudante de desenvolvimento de software FullStack com foco em JavaScript e TypeScript. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas, especialmente quando inclui tecnologia.
       </p>
       <ul>
         <li>
-          🔭 No momento, estou estudando e aplicando para vagas na área de frontend.
+          🔭 No momento, estou estudando e aplicando para vagas na área de Front-End, Back-End e FullStack.
         </li>
         <li>
-          🌱 Atualmente estou estudando React, Javascript e Typescript.
+          🌱 Atualmente estou estudando React, Javascript e Typescript. Estou utilizando o [RoadMap.sh](https://roadmap.sh/full-stack) como base para organizar meus estudos.
         </li>
         <li>
           ⚡ Spoiler: Amo um bom desafio!
