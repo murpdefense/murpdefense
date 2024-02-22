@@ -21,7 +21,7 @@
           🔭 No momento, estou estudando e aplicando para vagas na área de Front-End, Back-End e FullStack.
         </li>
         <li>
-          🌱 Atualmente estou estudando React, Javascript e Typescript. Estou utilizando o <a href="https://roadmap.sh/full-stack/">RoadMap.sh</a> como base para organizar meus estudos.
+          🌱 Atualmente estou estudando React, Javascript e Typescript. Estou utilizando o <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> como base para organizar meus estudos.
         </li>
         <li>
           ⚡ Spoiler: Amo um bom desafio!
