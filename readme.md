@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo;Sou+o+Paulo+Marques;Tenho+23+anos;Desenvolvedor;E+sou+seu+Copiloto;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Paulo+Marques;I'm+23+years+old;Full+Stack+Developer;)](https://git.io/typing-svg)
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-soupaulort-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/paulomarquesdev)](https://www.instagram.com/soupaulort/)
@@ -14,17 +14,17 @@
     </td>
     <td style="border: 0";>
       <p>
-        Sou estudante de desenvolvimento de software FullStack com foco em JavaScript e TypeScript. Sou curioso, entusiasmado e um pouco pragmático. Amo aprender coisas novas, especialmente quando inclui tecnologia.
+        I am a Full Stack software development student focusing on JavaScript and TypeScript. I am curious, enthusiastic and a little pragmatic. I love learning new things, especially when it includes technology.
       </p>
       <ul>
         <li>
-          🔭 No momento, estou estudando e aplicando para vagas na área de Front-End, Back-End e FullStack.
+          🔭 I am currently studying and applying for positions in the Front-End, Back-End and FullStack areas.
         </li>
         <li>
-          🌱 Atualmente estou estudando React, Javascript, Typescript e NodeJS. Estou utilizando o <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> como base para organizar meus estudos.
+          🌱 I'm currently studying React, Javascript, Typescript and NodeJS. I am using the <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> as a basis for organizing my studies.
         </li>
         <li>
-          ⚡ Spoiler: Amo um bom desafio!
+          ⚡ Spoiler: I love a good challenge!
         </li>
       </ul>
     </td>
