@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Paulo+Marques;I'm+23+years+old;Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Paulo+Marques;I'm+23+years+old;Web+Developer;)](https://git.io/typing-svg)
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-soupaulodev-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/soupaulodev)](https://www.instagram.com/soupaulodev/)
