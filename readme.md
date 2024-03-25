@@ -14,7 +14,7 @@
     </td>
     <td style="border: 0";>
       <p>
-       I am a Full Stack software development student focusing on React.js and Java with Spring Boot with knowledge in Javascript and Node.js. I am curious, enthusiastic and persistent. I love learning new things, especially when it includes technology.
+       I am a Full Stack software development student focusing on React.js and Java with Spring Boot with knowledge in Javascript, Typescript and Node.js. I am curious, enthusiastic and persistent. I love learning new things, especially when it includes technology.
       </p>
       <ul>
         <li>
