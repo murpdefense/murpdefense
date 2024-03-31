@@ -14,14 +14,14 @@
     </td>
     <td style="border: 0";>
       <p>
-       I am a Full Stack software development student focusing on React.js and Java with Spring Boot with knowledge in Javascript, Typescript and Node.js. I am curious, enthusiastic and persistent. I love learning new things, especially when it includes technology.
+       I am a Full Stack software development student focusing on Node.js and React.js. I am curious, enthusiastic and persistent. I love learning new things, especially when it includes technology.
       </p>
       <ul>
         <li>
           🔭 I am currently studying and applying for positions in the Back-End and FullStack areas.
         </li>
         <li>
-          🌱 I'm currently studying React.js and Java with Spring Boot. I am using the <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> as a basis for organizing my studies.
+          🌱 I'm currently studying Node.js and React.js. I am using the <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> as a basis for organizing my studies.
         </li>
         <li>
           ⚡ Spoiler: I love a good challenge!
