@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Paulo+Marques;I'm+23+years+old;Web+Developer;)](https://git.io/typing-svg)
 <h4 align="center">
 
-[![Instagram Badge](https://img.shields.io/badge/-soupaulodev-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/soupaulodev)](https://www.instagram.com/soupaulodev/)
-[![Linkedin Badge](https://img.shields.io/badge/-soupaulodev-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/soupaulodev)](https://www.linkedin.com/in/soupaulodev/)
-[![Twitter Badge](https://img.shields.io/badge/-soupaulodev-black?&style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/soupaulodev)](https://twitter.com/soupaulodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soupaulodev/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@soupaulodev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soupaulodev/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/soupaulodev)
+![Supabase](https://img.shields.io/badge/soupaulodev.com-000000?style=for-the-badge&logo=supabase&logoColor=white)
 
 </h4>
 
