@@ -21,10 +21,10 @@
       </p>
       <ul>
         <li>
-          🔭 I am currently studying and applying for positions in the Back-End and Web areas.
+          🔭 I am currently studying and applying for positions in the Back-End.
         </li>
         <li>
-          🌱 I'm currently studying Node.js and Java. I am using the <a href="https://roadmap.sh/full-stack/" style="text-decoration:none;">RoadMap.sh</a> as a basis for organizing my studies.
+          🌱 I'm currently studying Java and Spring.
         </li>
         <li>
           ⚡ Spoiler: I love a good challenge!
