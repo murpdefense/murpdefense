@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@soupaulodev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soupaulodev/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/soupaulodev)
+[![LeetCode](https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/soupaulodev/)
 
 </h4>
 
