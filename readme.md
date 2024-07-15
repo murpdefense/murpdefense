@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EBFAFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;I'm+Paulo+Marques;I'm+23+years+old;Web+Developer;)](https://git.io/typing-svg)
 <h4 align="center">
 
-[![Supabase](https://img.shields.io/badge/soupaulodev-030303?style=for-the-badge&logo=supabase&logoColor=white)](https://soupaulodev.com.br/)
+[![Supabase](https://img.shields.io/badge/soupaulodev-273542?style=for-the-badge&logo=supabase&logoColor=white)](https://soupaulodev.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soupaulodev/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@soupaulodev/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soupaulodev/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/soupaulodev)
-[![LeetCode](https://img.shields.io/badge/leetcode-000?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/soupaulodev/)
+[![LeetCode](https://img.shields.io/badge/leetcode-dd7100?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/soupaulodev/)
 
 </h4>
 
