@@ -1,26 +1,26 @@
-# Hi 👋, I'm Paulo!
+# Olá 👋, Eu sou o Paulo!
 
-[Versão em português](./README-PTBR.md)
+[English version:](./README.md)
 
 <div align="center">
   <img width="20%" alt="Squirtle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ4YWJwemNkaGd4OHg2aWxuYTYycGdlYWI2OWZpeDB5M2NqbmZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" />
 </div>
 
-## **_About me_**
+## **_Sobre mim_**
 
-I am a Web Developer software development student.
+Eu sou um estudante de desenvolvimento de software.
 
 <div>
-  <li>💙 <strong>Software development is my passion</strong></li>
-  <li>🔭 I am currently studying and applying for positions in the Back-End.</li>
- <li>✔️ I'm open to questions and contribution proposals! If it's within my reach, just get in touch!😉</li>
- <li>💻 In addition to technology, 🎮 I love video games, 🎵 Music, 🍿 And I love watching anime in my free time.</li>
- <li> 👨‍💻 I am curious, enthusiastic and persistent. I love learning new things, especially when it includes technology.</strong></li>
- <li>⚡ Spoiler: I love a good challenge!</strong></li>
- <li>📫 Contact me: <a href="soupaulodev@gmail.com">soupaulodev@gmail.com</a></li>
+  <li>💙 <strong>Desenvolvimento de software é minha paixão</strong></li>
+  <li>🔭 Atualmente estou estudando e me candidatando a vagas na área de Back-End.</li>
+ <li>✔️ Estou aberto a dúvidas e propostas de contribuição! Se estiver ao meu alcance é só entrar em contato!😉</li>
+ <li>💻 Além da tecnologia, 🎮 adoro videogames, 🎵 Música, 🍿 E adoro assistir animes nas horas vagas.</li>
+ <li> 👨‍💻 Sou curiosa, entusiasmada e persistente. Adoro aprender coisas novas, especialmente quando isso inclui tecnologia.</strong></li>
+ <li>⚡ Spoiler: adoro um bom desafio!</strong></li>
+ <li>📫 Entre em contato comigo: <a href="soupaulodev@gmail.com">soupaulodev@gmail.com</a></li>
 </div>
 
-## ⚒️ Programming tools and languages:
+## ⚒️ Ferramentas e linguagens de programação:
 
 <p> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50'/></a>
@@ -36,11 +36,11 @@ I am a Web Developer software development student.
     <a href="https://www.adobe.com/br/" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-2-1.png" width='50'/></a>
 </p>
 
-## 🧠 Learning:
+## 🧠 Estudando:
 
 <p align=""> 
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50'/></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
+    <a href="https://archlinux.org/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50'/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
 </p>
 
 ## Meu ambiente
@@ -52,7 +52,7 @@ I am a Web Developer software development student.
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*YjIinvnmIK5niQGZeg5etw.png" width='50'/></a>
 </p>
 
-<h2>👀 GitHub Stats</h2>
+<h2>👀 Estatísticas do GitHub:</h2>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soupaulodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soupaulodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soupaulodev&theme=nord_dark) |
 | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
@@ -60,7 +60,7 @@ I am a Web Developer software development student.
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soupaulodev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=soupaulodev&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## 📣 Social Media:
+## 📣 Redes Socias:
 
 [![PauloDev](https://img.shields.io/badge/soupaulodev-273542?style=for-the-badge&logo=supabase&logoColor=white)](https://soupaulodev.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soupaulodev/)
@@ -69,7 +69,7 @@ I am a Web Developer software development student.
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/soupaulodev)
 [![LeetCode](https://img.shields.io/badge/leetcode-dd7100?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/soupaulodev/)
 
-## ❤ Views & Followers
+## ❤ Visualizações e seguidores
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=soupaulodev">
