@@ -6,7 +6,7 @@
   <img width="20%" alt="Squirtle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ4YWJwemNkaGd4OHg2aWxuYTYycGdlYWI2OWZpeDB5M2NqbmZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" />
 </div>
 
-## **_Sobre mim_**
+## **_Sobre mim:_**
 
 Eu sou um estudante de desenvolvimento de software.
 
@@ -43,7 +43,7 @@ Eu sou um estudante de desenvolvimento de software.
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
 </p>
 
-## Meu ambiente
+## Meu ambiente:
 
 <p align=""> 
     <a href="https://archlinux.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" width='50'/></a>
@@ -52,7 +52,7 @@ Eu sou um estudante de desenvolvimento de software.
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*YjIinvnmIK5niQGZeg5etw.png" width='50'/></a>
 </p>
 
-<h2>👀 Estatísticas do GitHub:</h2>
+## 👀 Estatísticas do GitHub:
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soupaulodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soupaulodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soupaulodev&theme=nord_dark) |
 | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
