@@ -43,7 +43,7 @@ I am a Web Developer software development student.
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
 </p>
 
-## Meu ambiente
+## My environment
 
 <p align=""> 
     <a href="https://archlinux.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" width='50'/></a>
