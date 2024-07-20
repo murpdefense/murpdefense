@@ -52,7 +52,7 @@ I am a Web Developer software development student.
     <a href="https://www.gnome.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/desktop-environment-gnome-icon-512x512-aw23xlun.png" width='50' alt="Gnome"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width='50' alt="Visual Studio Code"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*YjIinvnmIK5niQGZeg5etw.png" width='50' alt="JetBrains Intellij Idea Community"/></a>
-    <a href="https://ohmyz.sh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" width='50' alt="OhMyZsh"/></a>
+    <a href="https://ohmyz.sh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" width='77' alt="OhMyZsh"/></a>
 </p>
 
 ## 👀 GitHub Stats:
