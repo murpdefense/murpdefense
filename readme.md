@@ -25,9 +25,9 @@ I am a Web Developer software development student.
 <p> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50'/></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='50'/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width='50'/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" width='50'/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='53'/></a>
     <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
     <a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
@@ -41,7 +41,7 @@ I am a Web Developer software development student.
 <p align=""> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50'/></a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54'/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='54'/></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='50'/></a>
 </p>
 
 ## My environment:
