@@ -74,7 +74,7 @@ I am a Web Developer software development student.
 
 ## ❤ Views & Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/soupaulodev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=soupaulodev">
 </a>
 <a href="https://github.com/soupaulodev?tab=followers"><img src="https://img.shields.io/github/followers/soupaulodev?label=Followers&style=social" alt="GitHub Badge"></a>
