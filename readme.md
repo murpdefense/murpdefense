@@ -43,6 +43,7 @@ I am a Web Developer software development student.
     <a href="https://archlinux.org/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50' alt="Java lang"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54' alt="Spring Boot"/></a>
     <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='50' alt="Rust lang"/></a>
+    <a href="https://skillsforall.com/career-path/cybersecurity?courseLang=en-US" target="_blank"><img src="https://t.ctcdn.com.br/C3HzEgvL7HZKHPHr0UhHH7cYwvc=/i658265.png" width='50' alt="Junior Cybersecurity Analyst"/></a>
 </p>
 
 ## My environment:
