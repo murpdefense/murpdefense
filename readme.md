@@ -32,7 +32,7 @@ I am a Web Developer software development student.
     <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql"/></a>
     <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="hhttps://skillicons.dev/icons?i=figma" alt="Figma"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
     <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width='50' alt="Photoshop"/></a>
     <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator" width='50' alt="Illustrator"/></a>
 </p>
@@ -40,7 +40,7 @@ I am a Web Developer software development student.
 ## 🧠 Learning:
 
 <p align=""> 
-    <<a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
     <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
     <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width='50' alt="Rust lang"/></a>
     <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width='50' alt="C lang"/></a>
