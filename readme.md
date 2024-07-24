@@ -8,7 +8,7 @@
 
 ## **_About me:_**
 
-I am a Web Developer software development student.
+I am a software development student.
 
 <div>
   <li>💙 <strong>Software development is my passion</strong></li>
