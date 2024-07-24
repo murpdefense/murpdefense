@@ -23,18 +23,7 @@ I am a Web Developer software development student.
 ## ⚒️ Programming tools and languages:
 
 <p> 
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn-icons-png.freepik.com/512/3291/3291669.png" width='50' alt="Java lang"/></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://media.licdn.com/dms/image/D4D12AQEICFOK-z0akA/article-cover_image-shrink_720_1280/0/1656604745399?e=2147483647&v=beta&t=-Fjm5QYiJOJNzJ89xGv9VYPNxMNxqIX4jscMWXB6VaM" width='54' alt="Spring Boot"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" width='50' alt="Rust lang"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width='50' alt="Docker"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width='50' alt="JavaScript"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" width='50' alt="Typescript"/></a>
-    <a href="https://nodejs.org/en" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/></a>
-    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width='50' alt="Photoshop"/></a>
-    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-2-1.png" width='50' alt="Illustrator"/></a>
+      <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=java,spring,rust,docker,js,ts,react,nodejs,postgresql,redis,figma,photoshop,illustrator" height='50' alt="Techs"/></a>
 </p>
 
 ## 🧠 Learning:
