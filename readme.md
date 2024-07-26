@@ -50,7 +50,7 @@ I am a software development student.
 ## My environment:
 
 <p align=""> 
-    <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" width='50' alt="Arch Linux"/></a>
+    <a href="https://archlinux.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/pop-os-icon-2048x2048-mjad7yws.png" width='50' alt="Arch Linux"/></a>
     <a href="https://www.gnome.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/desktop-environment-gnome-icon-512x512-aw23xlun.png" width='50' alt="Gnome"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='50' alt="Visual Studio Code"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width='50' alt="JetBrains Intellij Idea Community"/></a>
