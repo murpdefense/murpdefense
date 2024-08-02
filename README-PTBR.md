@@ -53,8 +53,8 @@ Eu sou um estudante de desenvolvimento de software.
 ## Meu ambiente:
 
 <p align=""> 
-    <a href="https://archlinux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=arch" width='50' alt="Arch Linux"/></a>
-    <a href="https://www.gnome.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/desktop-environment-gnome-icon-512x512-aw23xlun.png" width='50' alt="Gnome"/></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width='50' alt="Linux Mint"/></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cinnamon-logo.svg/1024px-Cinnamon-logo.svg.png" width='50' alt="Cinnamon"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='50' alt="Visual Studio Code"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width='50' alt="JetBrains Intellij Idea Community"/></a>
     <a href="https://ohmyz.sh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" width='77' alt="OhMyZsh"/></a>
