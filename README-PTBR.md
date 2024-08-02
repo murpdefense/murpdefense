@@ -25,7 +25,6 @@ Eu sou um estudante de desenvolvimento de software.
 <p> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
     <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width='50' alt="Rust lang"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width='50' alt="Docker"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width='50' alt="JavaScript"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width='50' alt="Typescript"/></a>
@@ -42,8 +41,12 @@ Eu sou um estudante de desenvolvimento de software.
 <p align=""> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
     <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width='50' alt="Rust lang"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width='50' alt="C lang"/></a>
+</p>
+
+## 🧠 Entusiasta:
+
+<p align="">
+    <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" width='50' alt="Golang"/></a>
     <a href="https://skillsforall.com/career-path/cybersecurity?courseLang=en-US" target="_blank"><img src="https://skillicons.dev/icons?i=kali" width='50' alt="Junior Cybersecurity Analyst"/></a>
 </p>
 
