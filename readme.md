@@ -25,7 +25,6 @@ I am a software development student.
 <p> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
     <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width='50' alt="Rust lang"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width='50' alt="Docker"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width='50' alt="JavaScript"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width='50' alt="Typescript"/></a>
@@ -42,15 +41,20 @@ I am a software development student.
 <p align=""> 
     <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
     <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width='50' alt="Rust lang"/></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width='50' alt="C lang"/></a>
+</p>
+
+## 🧠 Enthusiast:
+
+<p align="">
+    <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" width='50' alt="Golang"/></a>
     <a href="https://skillsforall.com/career-path/cybersecurity?courseLang=en-US" target="_blank"><img src="https://skillicons.dev/icons?i=kali" width='50' alt="Junior Cybersecurity Analyst"/></a>
 </p>
+
 
 ## My environment:
 
 <p align=""> 
-    <a href="https://archlinux.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/pop-os-icon-2048x2048-mjad7yws.png" width='50' alt="Arch Linux"/></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width='50' alt="Arch Linux"/></a>
     <a href="https://www.gnome.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/desktop-environment-gnome-icon-512x512-aw23xlun.png" width='50' alt="Gnome"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='50' alt="Visual Studio Code"/></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width='50' alt="JetBrains Intellij Idea Community"/></a>
