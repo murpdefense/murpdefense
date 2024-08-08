@@ -2,10 +2,6 @@
 
 [English version:](./README.md)
 
-<div align="center">
-  <img width="20%" alt="Dev Cat" src="https://i.pinimg.com/originals/81/ce/9a/81ce9aee5d87ca602d522e6bf46f7785.gif" />
-</div>
-
 ## **_Sobre mim:_**
 
 Eu sou um estudante de desenvolvimento de software.
