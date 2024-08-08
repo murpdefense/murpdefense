@@ -23,41 +23,41 @@ I am a software development student.
 ## ⚒️ Programming tools and languages:
 
 <p> 
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
-    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width='50' alt="Docker"/></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width='50' alt="Typescript"/></a>
-    <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql"/></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="redis"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
-    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width='50' alt="Photoshop"/></a>
-    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator" width='50' alt="Illustrator"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='40' alt="Java lang"/></a>
+    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='40' alt="Spring Boot"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width='40' alt="Docker"/></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width='40' alt="Typescript"/></a>
+    <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width='40' alt="postgresql"/></a>
+    <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width='40' alt="redis"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
+    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" width='40' alt="Photoshop"/></a>
+    <a href="https://www.adobe.com/br/" target="_blank"><img src="https://skillicons.dev/icons?i=illustrator" width='40' alt="Illustrator"/></a>
 </p>
 
 ## 🧠 Learning:
 
 <p align=""> 
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='50' alt="Java lang"/></a>
-    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='50' alt="Spring Boot"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width='40' alt="Java lang"/></a>
+    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width='40' alt="Spring Boot"/></a>
 </p>
 
 ## 🧠 Enthusiast:
 
 <p align="">
-    <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" width='50' alt="Golang"/></a>
-    <a href="https://skillsforall.com/career-path/cybersecurity?courseLang=en-US" target="_blank"><img src="https://skillicons.dev/icons?i=kali" width='50' alt="Junior Cybersecurity Analyst"/></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" width='40' alt="Golang"/></a>
+    <a href="https://skillsforall.com/career-path/cybersecurity?courseLang=en-US" target="_blank"><img src="https://skillicons.dev/icons?i=kali" width='40' alt="Junior Cybersecurity Analyst"/></a>
 </p>
 
 
 ## My environment:
 
 <p align=""> 
-    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width='50' alt="Linux Mint"/></a>
-    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cinnamon-logo.svg/1024px-Cinnamon-logo.svg.png" width='50' alt="Cinnamon"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='50' alt="Visual Studio Code"/></a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width='50' alt="JetBrains Intellij Idea Community"/></a>
-    <a href="https://ohmyz.sh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" width='77' alt="OhMyZsh"/></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/2048px-Linux_Mint_logo_without_wordmark.svg.png" width='40' alt="Linux Mint"/></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cinnamon-logo.svg/1024px-Cinnamon-logo.svg.png" width='40' alt="Cinnamon"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='40' alt="Visual Studio Code"/></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" width='40' alt="JetBrains Intellij Idea Community"/></a>
+    <a href="https://ohmyz.sh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" width='67' alt="OhMyZsh"/></a>
 </p>
 
 ## 👀 GitHub Stats:
