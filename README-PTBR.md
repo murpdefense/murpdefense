@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou o Paulo!
+# Olá 👋, Eu sou o Paulo! <img width="4%" alt="Dev Cat" src="https://i.pinimg.com/originals/81/ce/9a/81ce9aee5d87ca602d522e6bf46f7785.gif" />
 
 [English version:](./README.md)
 
