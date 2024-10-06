@@ -7,7 +7,7 @@
 - 👨🏻‍💻 Desenvolvedor de Software
 - 🖥 Back-End
 - ✊🏼 Persistência
-- 📫 [Contact me](soupaulodev@proton.me)
+- <a href="soupaulodev@proton.me">📫 Contact me</a>
 
 ## Languages and Tools
 
