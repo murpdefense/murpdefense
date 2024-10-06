@@ -7,7 +7,7 @@
 - 👨🏻‍💻 Desenvolvedor de Software
 - 🖥 Back-End
 - ✊🏼 Persistência
-- <a href="soupaulodev@proton.me">📫 Entre em contato comigo</a>
+- [📫 Entre em contato comigo](mailto:soupaulodev@proton.me?subject=[GitHub])
 
 ## Ferramentas e linguagens de programação:
 
