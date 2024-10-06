@@ -2,14 +2,14 @@
 
 [English version](./README.md)
 
-## Sobre mim:
+## Sobre mim
 
 - 👨🏻‍💻 Desenvolvedor de Software
 - 🖥 Back-End
 - ✊🏼 Persistência
-- [📫 Entre em contato comigo](mailto:soupaulodev@proton.me?subject=[GitHub])
+- 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
-## Ferramentas e linguagens de programação:
+## Ferramentas e linguagens de programação
 
 - Linguagens: Golang - Java - Typescript
 - Back-End: Gin - Spring Boot
@@ -19,7 +19,7 @@
 - Design: Figma - Photoshop - Illustrator
 - Sistemas: Linux - Windows
 
-## Estatísticas do GitHub:
+## Estatísticas do GitHub
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soupaulodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soupaulodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soupaulodev&theme=nord_dark) |
 | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
@@ -27,7 +27,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soupaulodev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=soupaulodev&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## Redes Socias:
+## Redes Socias
 
 [![PauloDev](https://img.shields.io/badge/soupaulodev-273542?style=for-the-badge&logo=supabase&logoColor=white)](https://soupaulodev.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soupaulodev/)
