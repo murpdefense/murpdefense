@@ -4,19 +4,19 @@
 
 ## About me
 
-- 👨🏻‍💻 Desenvolvedor Android
-- ✊🏼 Persistência
-- 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
+- 👨🏻‍💻 Android Developer
+- ✊🏼 Persistency
+- 📫 Contact me: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
 ## Languages and Tools
 
-- Linguagens: Kotlin - Java - Swift (Futuramente)
-- Plataformas: Android - iOS(Futuramente)
-- Já utilizei: ReactJS - Spring Boot
-- Bancos de dados: PostgreSQL - Redis
+- Languages: Kotlin - Java - Swift (In the future)
+- Plataforms: Android - iOS(In the future)
+- I have already used: ReactJS - Spring Boot
+- Databases: PostgreSQL - Redis
 - Infra: Docker
 - Design: Figma - Photoshop - Illustrator
-- Sistemas: Linux - Windows
+- Systems: Linux - Windows
 
 ## GitHub Stats
 
