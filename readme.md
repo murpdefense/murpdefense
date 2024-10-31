@@ -10,9 +10,9 @@
 
 ## Languages and Tools
 
-- Languages: Kotlin - Java - Swift (In the future)
-- Plataforms: Android - iOS(In the future)
-- I have already used: ReactJS - Spring Boot
+- Languages: Java - Golang
+- Frontend: React
+- Backend: Spring Boot - Gin
 - Databases: PostgreSQL - Redis
 - Infra: Docker
 - Design: Figma - Photoshop - Illustrator
