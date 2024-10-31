@@ -4,7 +4,7 @@
 
 ## About me
 
-- 👨🏻‍💻 Android Developer
+- 👨🏻‍💻 Software Developer
 - ✊🏼 Persistency
 - 📫 Contact me: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
