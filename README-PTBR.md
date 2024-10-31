@@ -4,15 +4,15 @@
 
 ## Sobre mim
 
-- 👨🏻‍💻 Desenvolvedor Android
+- 👨🏻‍💻 Desenvolvedor de Software
 - ✊🏼 Persistência
 - 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
 ## Ferramentas e linguagens de programação
 
-- Linguagens: Kotlin - Java - Swift (Futuramente)
-- Plataformas: Android - iOS(Futuramente)
-- Já utilizei: ReactJS - Spring Boot
+- Linguagens: Java - Golang
+- Frontend: React
+- Backend: Spring Boot - Gin
 - Bancos de dados: PostgreSQL - Redis
 - Infra: Docker
 - Design: Figma - Photoshop - Illustrator
