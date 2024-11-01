@@ -1,24 +1,24 @@
-# Hi, I'm Paulo
+# Olá, Eu sou o Paulo
 
-[Versão em português](./README.md)
+[English version](./README-EN.md)
 
-## About me
+## Sobre mim
 
-- 👨🏻‍💻 Software Developer
-- ✊🏼 Persistency
-- 📫 Contact me: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
+- 👨🏻‍💻 Desenvolvedor de Software
+- ✊🏼 Persistência
+- 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
-## Languages and Tools
+## Ferramentas e linguagens de programação
 
-- Languages: Java - Golang
+- Linguagens: Java - Golang
 - Frontend: React
 - Backend: Spring Boot - Gin
-- Databases: PostgreSQL - Redis
+- Bancos de dados: PostgreSQL - Redis
 - Infra: Docker
 - Design: Figma - Photoshop - Illustrator
-- Systems: Linux - Windows
+- Sistemas: Linux - Windows
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soupaulodev&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soupaulodev&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soupaulodev&theme=nord_dark) |
 | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
@@ -26,7 +26,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soupaulodev&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=soupaulodev&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-## Social Media
+## Redes Socias
 
 [![PauloDev](https://img.shields.io/badge/soupaulodev-273542?style=for-the-badge&logo=supabase&logoColor=white)](https://soupaulodev.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soupaulodev/)
@@ -35,7 +35,7 @@
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/soupaulodev)
 [![LeetCode](https://img.shields.io/badge/leetcode-dd7100?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/soupaulodev/)
 
-## Views & Followers
+## Visualizações e seguidores
 
 <a href="https://github.com/soupaulodev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=soupaulodev">
