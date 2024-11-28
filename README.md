@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Desenvolvedor de Software
 - ✊🏼 Persistência
-- Designer por +5 anos
+- 🖊️ Designer por +5 anos
 - 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
 ## Ferramentas e linguagens de programação
