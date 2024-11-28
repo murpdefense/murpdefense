@@ -6,6 +6,7 @@
 
 - 👨🏻‍💻 Desenvolvedor de Software
 - ✊🏼 Persistência
+- Designer por +5 anos
 - 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
 ## Ferramentas e linguagens de programação
@@ -15,7 +16,7 @@
 - Backend: Spring Boot - Gin
 - Bancos de dados: PostgreSQL - Redis
 - Infra: Docker
-- Design: Figma - Photoshop - Illustrator
+- Design: Figma - Photoshop - Illustrator - After Effects - Blender
 - Sistemas: Linux - Windows
 
 ## Estatísticas do GitHub
