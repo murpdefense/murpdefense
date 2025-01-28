@@ -11,11 +11,9 @@
 
 ## Languages and Tools
 
-- Languages: Java - Golang
-- Frontend: React
-- Backend: Spring Boot - Gin
-- Databases: PostgreSQL - Redis
-- Infra: Docker
+- Languages: Java
+- Frontend: React.js
+- Backend: Spring
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender
 - Systems: Linux - Windows
 
