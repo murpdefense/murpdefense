@@ -11,11 +11,9 @@
 
 ## Ferramentas e linguagens de programação
 
-- Linguagens: Java - Golang
-- Frontend: React
-- Backend: Spring Boot - Gin
-- Bancos de dados: PostgreSQL - Redis
-- Infra: Docker
+- Linguagens: Java
+- Frontend: React.js
+- Backend: Spring
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender
 - Sistemas: Linux - Windows
 
