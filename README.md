@@ -14,7 +14,7 @@
 - Linguagens: Java
 - Frontend: React.js
 - Backend: Spring
-- Design: Figma - Photoshop - Illustrator - After Effects - Blender
+- Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
 - Sistemas: Linux - Windows
 
 ## Estatísticas do GitHub
