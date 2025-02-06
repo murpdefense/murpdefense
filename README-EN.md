@@ -11,9 +11,9 @@
 
 ## Languages and Tools
 
-- Languages: Java
-- Frontend: React.js
+- Languages: Java, Typescript
 - Backend: Spring
+- Frontend: React.js
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
 - Systems: Linux - Windows
 
