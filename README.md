@@ -12,8 +12,8 @@
 ## Ferramentas e linguagens de programação
 
 - Linguagens: Java, Typescript
-- Frontend: React.js
 - Backend: Spring
+- Frontend: React.js
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
 - Sistemas: Linux - Windows
 
