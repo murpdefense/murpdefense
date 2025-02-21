@@ -4,16 +4,17 @@
 
 ## About me
 
-- 👨🏻‍💻 Software Developer
+- 👨🏻‍💻 Software Developer And Cybersecurity Analyst
 - ✊🏼 Persistency
 - 🖊️ Designer for +5 years
 - 📫 Contact me: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
 
 ## Languages and Tools
 
-- Languages: Java, Typescript
+- Languages: Java, Typescript, Dart
 - Backend: Spring
-- Frontend: React.js
+- Frontend: Next.js
+- Mobile: Flutter
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
 - Systems: Linux - Windows
 
