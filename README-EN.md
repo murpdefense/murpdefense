@@ -12,7 +12,7 @@
 ## Languages and Tools
 
 - Languages: Java, Typescript, Dart
-- Backend: Spring
+- Backend: Spring Boot
 - Frontend: Next.js
 - Mobile: Flutter
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
