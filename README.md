@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 👨🏻‍💻 Desenvolvedor de Software
+- 👨🏻‍💻 Engenheiro de Software e Analista de Cibersegurança
 - ✊🏼 Persistência
 - 🖊️ Designer por +5 anos
 - 📫 Entre em contato comigo: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
