@@ -11,9 +11,10 @@
 
 ## Ferramentas e linguagens de programação
 
-- Linguagens: Java, Typescript
-- Backend: Spring
-- Frontend: React.js
+- Linguagens: Java, Typescript, Dart
+- Backend: Spring Boot
+- Frontend: Next.js
+- Mobile: Flutter
 - Design: Figma - Photoshop - Illustrator - After Effects - Blender - Davinvi Resolve
 - Sistemas: Linux - Windows
 
