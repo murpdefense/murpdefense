@@ -4,7 +4,7 @@
 
 ## About me
 
-- 👨🏻‍💻 Software Developer And Cybersecurity Analyst
+- 👨🏻‍💻 Software Engineer And Cybersecurity Analyst
 - ✊🏼 Persistency
 - 🖊️ Designer for +5 years
 - 📫 Contact me: [soupaulodev@proton.me](mailto:soupaulodev@proton.me)
