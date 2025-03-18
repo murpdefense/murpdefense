@@ -25,7 +25,7 @@
 
 ## Redes Socias
 
-[![PauloDev](https://img.shields.io/badge/soupaulodev-273542?style=for-the-badge&logo=supabase&logoColor=white)](https://murpdefense.com)
+[![Murp Defense](https://img.shields.io/badge/murpdefense-273542?style=for-the-badge&logo=infracost&logoColor=14ff14&color=145d1e)](https://murpdefense.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murpdefense/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/murpdefense)
 
